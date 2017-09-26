@@ -23,7 +23,7 @@
 
 	<properties>
 		<maven.du.plugin.version>3.0.14</maven.du.plugin.version>
-		<slee.code.version>2.9.144</slee.code.version>
+		<slee.code.version>2.9.128</slee.code.version>
 	</properties>
 
 	<dependencyManagement>
