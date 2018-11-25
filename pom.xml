@@ -24,7 +24,7 @@
 
 	<properties>
 		<maven.du.plugin.version>4.0.2</maven.du.plugin.version>
-		<slee.code.version>7.1.0.36</slee.code.version>
+		<slee.code.version>7.1.83</slee.code.version>
 	</properties>
 
 	<dependencyManagement>
